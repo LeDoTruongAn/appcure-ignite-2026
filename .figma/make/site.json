@@ -1,0 +1,18 @@
+{
+  "title": "appCURE",
+  "description": "Streamlines event planning and attendee engagement for MS Ignite 2026, offering schedules, updates, and networking tools to enhance the conference experience.",
+  "language": "en",
+  "icons": {
+    "icon": "/favicon.png"
+  },
+  "openGraph": {
+    "image": "/favicon.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
